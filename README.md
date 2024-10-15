@@ -1,6 +1,11 @@
 # Profitability-of-Category-Wise-Products:
 
-## Data Collection: 
+[<img src='/images/Category_Products.jpg' width="800">](https://sharminhossainbd.github.io/images/Category_Products.jpg)
+
+## Tools Used
+SQL, Tableau, Microsoft Excel. 
+
+## Data Collection
 
 The data used in this project is based on real scenarios from my previous company. However, the figures have been modified to maintain confidentiality. 
 
@@ -18,7 +23,7 @@ This Tableau dashboard provides insights into year-wise and category-wise profit
 
 This dashboard aids decision-makers in understanding profit distribution across categories and products, enabling better strategic planning for the business.
 
-<img src='/Category_Products.jpg'>
+
 
 ## Dashboard Insights
 
