@@ -1,6 +1,6 @@
 # Profitability-of-Category-Wise-Products:
 
-[<img src='/images/Category_Products.jpg' width="800">](https://sharminhossainbd.github.io/images/Category_Products.jpg)
+[<img src='/Category_Products.jpg' width="800">](https://sharminhossainbd.github.io/Profitability-of-Category-Wise-Products/Category_Products.jpg)
 
 ## Tools Used
 SQL, Tableau, Microsoft Excel. 
