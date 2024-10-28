@@ -1,4 +1,4 @@
-# Profitability-of-Category-Wise-Products:
+# Profitability-of-Category-Wise-Products
 
 [<img src='https://sharminhossainbd.github.io/Profitability-of-Category-Wise-Products/Category_Products.jpg'>](https://sharminhossainbd.github.io/Profitability-of-Category-Wise-Products/Category_Products.jpg)
 
